@@ -1,0 +1,13 @@
+# Normalize line endings
+*.jpeg binary
+
+*.woff binary
+
+yarn.lock linguist-generated
+*.png binary 
+
+*.go linguist-detectable
+
+*.html linguist-vendored
+**/*.go linguist-detectable
+public/*.html linguist-vendored
