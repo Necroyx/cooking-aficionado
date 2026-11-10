@@ -1,0 +1,6 @@
+*.exe~
+*.so
+*.dll
+go.sum
+vendor/
+*.test
